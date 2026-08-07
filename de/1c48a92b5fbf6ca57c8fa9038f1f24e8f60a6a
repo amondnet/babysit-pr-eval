@@ -1,0 +1,14 @@
+eval-20260807-234349-A-3.txt
+  h_b67b2291a59b63 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "de1c48a92b5fbf6ca57c8fa9038f1f24e8f60a6a",
+  "prompts": {},
+  "humans": {
+    "h_b67b2291a59b63": {
+      "author": "Minsu Lee <amond@amond.net>"
+    }
+  }
+}
