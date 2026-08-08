@@ -1,0 +1,19 @@
+eval-20260808-144916-A-6.txt
+  s_fa3ed4f2cae042::t_82a488d86c0404 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "832c93b610801a68f8d74c358acfedfdb9c2dee5",
+  "prompts": {},
+  "sessions": {
+    "s_fa3ed4f2cae042": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "db6f07a9-aa52-417e-aa20-56976a81d74c",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Minsu Lee <amond@amond.net>"
+    }
+  }
+}
