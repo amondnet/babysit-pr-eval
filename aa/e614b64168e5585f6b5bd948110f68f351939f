@@ -1,0 +1,19 @@
+eval-20260909-180302-B-1.txt
+  s_efcac8723fc722::t_58111235ad64b1 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "aae614b64168e5585f6b5bd948110f68f351939f",
+  "prompts": {},
+  "sessions": {
+    "s_efcac8723fc722": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9e488564-b20c-4c03-84a9-9a5b6dfb21eb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Minsu Lee <amond@amond.net>"
+    }
+  }
+}
